@@ -66,7 +66,7 @@ Superstore Dataset
 
 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
+(https://github.com/pranjaly711-design/superstore-dashboard/blob/main/power%20bi%20dashbboard.jpeg)
 
 Markdown
 dashboard.png
