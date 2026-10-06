@@ -12,6 +12,7 @@ Total Quantity Sold: 38K
 Total Discounts: 1.56K
 Total Orders (Row Count): 9.994K
 Total Customers/Transactions: 5.825K
+
 📊 Dashboard Features
 Sales & Profit Trend Analysis
 Year-wise comparison of Sales and Profit.
@@ -45,6 +46,7 @@ Interactive Filters
 Category Filter
 Region Filter
 Date Range Filter
+
 🛠️ Tools & Technologies
 Power BI Desktop
 DAX
@@ -52,6 +54,7 @@ Data Modeling
 Data Visualization
 Power Query
 Superstore Dataset
+
 📌 Business Insights
 
 ✅ Technology category generates the highest sales.
@@ -71,6 +74,7 @@ Superstore Dataset
 Markdown
 dashboard.png
 Show more lines
+
 🎯 Skills Demonstrated
 Data Cleaning
 Data Modeling
